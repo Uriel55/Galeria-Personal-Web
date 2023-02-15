@@ -14,7 +14,7 @@ ya sea que el usuario desee ver todas las fotos que ha guardado o desee filtrarl
 ![Captura de pantalla_20230214_060300](https://user-images.githubusercontent.com/101745244/218892149-eba748fe-9777-4f48-8916-0771d1030974.png)
 ![Captura de pantalla_20230214_060400](https://user-images.githubusercontent.com/101745244/218892158-40e8c41e-7d6c-4fd7-9693-3ad626979dfe.png)
 
-#Para apreciar la vista de una imagen es tan simple como dar click en el botón de "Ver", y se mostrará la imagen en su tamaño completo y abajo se podrá apreciar también #la descripción de la misma
+#Para apreciar la vista de una imagen es tan simple como dar click en el botón de "Ver", y se mostrará la imagen en su tamaño completo y abajo se podrá apreciar también la descripción de la misma
 
 ![Captura de pantalla_20230214_060555](https://user-images.githubusercontent.com/101745244/218892175-81c2b9f1-528a-4f8e-844e-d6323773c1fe.png)
 ![Captura de pantalla_20230214_060758](https://user-images.githubusercontent.com/101745244/218892219-9c36b6b6-f08a-4f9a-9093-38cd2784e3d9.png)
